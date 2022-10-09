@@ -1,6 +1,7 @@
 
 # plymouth-kali-new-theme
 Slightly different Kali-linux splash screen
+
 ## Instructions
 1. unzip the downloaded `.zip` file
 2. copy the `kalinew/` directory to `/usr/share/plymouth/themes/`
