@@ -1,7 +1,7 @@
 
 # plymouth-kali-new-theme
 Slightly different Kali-linux splash screen
-
+![](https://github.com/Roxrudra/plymouth-kali-new-theme/blob/main/kalinew.gif)
 ## Instructions
 1. unzip the downloaded `.zip` file
 2. copy the `kalinew/` directory to `/usr/share/plymouth/themes/`
